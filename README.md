@@ -9,7 +9,7 @@ Use:
 - Core Data
 - SDWebImage
 
-PROJE : 
+PROJECT : 
 
 <img width="394" alt="1" src="https://user-images.githubusercontent.com/65239293/234122428-fe0dab57-e99c-4c46-9a47-941adcf0f71f.png">
 
